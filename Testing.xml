@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="Report.TestListener"></listener>
+	</listeners>
+
+	<test name="Test" verbose="2">
+		<!-- <parameter name="browser" value="chrome"> </parameter> -->
+		<classes>
+			<!-- <class name="pocFramework.pocFramework.TestBase"></class> -->
+			<class name="pocFramework.pocFramework.Test_Cases_1"></class>
+			<class name="pocFramework.pocFramework.Test_Cases_2"></class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

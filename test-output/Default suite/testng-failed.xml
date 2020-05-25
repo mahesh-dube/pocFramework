@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="pocFramework.pocFramework.NA_NA_NA_NA_30f9739d108149199f4587c623de191c">
+        <methods>
+          <include name="NewUserReg"/>
+        </methods>
+      </class> <!-- pocFramework.pocFramework.NA_NA_NA_NA_30f9739d108149199f4587c623de191c -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

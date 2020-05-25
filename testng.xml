@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test" verbose="2">
+		<!-- <parameter name="browser" value="chrome"> </parameter> -->
+		<classes>
+			<!-- <class name="pocFramework.pocFramework.NewUserRegistration"></class> -->
+			<class name="pocFramework.pocFramework.Test_Cases_1"></class>
+			<class name="pocFramework.pocFramework.Test_Cases_2"></class>
+			<!-- <class name="pocFramework.pocFramework.LoginPage"></class> -->
+			<!-- <class name="pocFramework.pocFramework.ContinueShopping"></class> -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

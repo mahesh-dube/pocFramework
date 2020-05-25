@@ -1,0 +1,8 @@
+name: Suite
+configFailurePolicy: skip
+tests:
+  - name: Test
+    verbose: 2
+    classes:
+      - pocFramework.pocFramework.NA_NA_NA_NA_30f9739d108149199f4587c623de191c
+
